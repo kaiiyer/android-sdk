@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/kai/Documents/android-sdk-master/example/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a96e85bc98f59f3aa9f9b77335ea6c159c52737a">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a6c8b650be3fe4fb64cd533e9a75ded335a730af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kai/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_d1ac4c9764a862160421564e2d763ece227870aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kai/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/text-to-speech/6.9.2/a8b71260f024ee163d5e39775836156e26413b61/text-to-speech-6.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a8b71260f024ee163d5e39775836156e26413b61">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10/text-to-speech-6.9.2_c32f02b06f34cb3ccc955fd9e880512812ecae5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kai/.android/build-cache/a8169497526bb71a8b0e9a85973f66e9dc695716/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_52f06cf747d08034d91f8367014e70b9b5eccf3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kai/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/personality-insights/6.9.2/c860822ee88a577de643b9e7c971f16664daf234/personality-insights-6.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c860822ee88a577de643b9e7c971f16664daf234">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10/personality-insights-6.9.2_d16fb093f8338c9e438f896125090b1aaf3fceef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kai/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/discovery/6.9.2/9256bb16fcfc4891a87eebacb6757f91a0409ac4/discovery-6.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9256bb16fcfc4891a87eebacb6757f91a0409ac4">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10/discovery-6.9.2_b519af5f930cbdc2267015991bd5d5fe94b7c0ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kai/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.bundles.repackaged/jersey-jsr166e/2.25.1/872244533f681f7d2cd48096d1fe50c779b519ed/jersey-jsr166e-2.25.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="872244533f681f7d2cd48096d1fe50c779b519ed">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10/jersey-jsr166e-2.25.1_860756d8ef984f81ccb0ba03b5c4fb5fbb2c50f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kai/.android/build-cache/9cf548a659370a047cb0d6ed89011ff5517b3b1d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="db0171d21d064bab7ad72685f3c7df40544b03a8">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_98fd4a8c14eef00674d40f05815fdc5b003c29e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kai/.android/build-cache/57d121de24a1610dccf1e988a734a93eb6a297eb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b102f892442929c3457de1ef6a94f5dda3dd8864">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ed6cc8658801baa5f719d538ddcccb4294d77398/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kai/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/speech-to-text/6.9.2/50f4f0134e67fbc345f136d837d322987675ad4a/speech-to-text-6.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="50f4f0134e67fbc345f136d837d322987675ad4a">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10/speech-to-text-6.9.2_fcd671780aeaa4e1d6ab02e6f72b3a3e207d98a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kai/.android/build-cache/72b80fb288212f6cde158df0190136815d7782bd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a8655e6077da9526c0c94bf063f1275430ce8574">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aed8c1e16fa27fc160e22f54ff3773ca8e94e884/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kai/Documents/android-sdk-master/example/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4f1f69df6ab638fe93bc4e4318829ce1a3b31d8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kai/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/natural-language-classifier/6.9.2/7f1c520bc06e4918984f16f7d266661c6af97270/natural-language-classifier-6.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7f1c520bc06e4918984f16f7d266661c6af97270">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10/natural-language-classifier-6.9.2_899b91ebc1523fa2d100705aaf4fd53eaad96753/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kai/.android/build-cache/7cf0b89560797c79e762634422766b72171fe47b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8602ab07133e6ee182726fa27588420dba9d6d55">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_afd59667b1023ce7a51441ad2ad3e3fd58ff68da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kai/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/assistant/6.9.2/b8aadf40e4cbc31771d9ebe4dd3c6e295b6e5625/assistant-6.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b8aadf40e4cbc31771d9ebe4dd3c6e295b6e5625">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10/assistant-6.9.2_e568005171ea986000e31962c40b894d0bc67545/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kai/.android/build-cache/90847a99b49b6e47cd8382bd14d629d8bf8b5d7f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2520dd452fb1f487eba29ccd2d44358f0b8da788">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_575d9424fc9035a9c65ed5aaa183d62cefdcdc9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kai/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_467d06f088380d7ce959f7ed937b29d35d140b08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kai/.android/build-cache/a52d61723f903807e9506333cb9f32fe77daab04/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f7b86f1beb2b3625c6a1a5da6b5fc5294b64aea9">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0f6e5ad7e513bd161b9408aa084bd60ad2e61043/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kai/.android/build-cache/a1f3906cb1f4230b5f6df0ab0f6d657904990366/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fe49e70f88382d10986a3c886659ab029bab1d8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kai/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/visual-recognition/6.9.2/722ed0ed8d937617f91e24d2a68a50d626b986fe/visual-recognition-6.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="722ed0ed8d937617f91e24d2a68a50d626b986fe">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10/visual-recognition-6.9.2_a24db65216f68704e29b9c359c9f703ce0ec458b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kai/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/natural-language-understanding/6.9.2/ba234f1c795c14eb6339a3ea6ff25e5247aee9e6/natural-language-understanding-6.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ba234f1c795c14eb6339a3ea6ff25e5247aee9e6">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10/natural-language-understanding-6.9.2_671c5a5c67a3124ea7aeceb36634992680f09eff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kai/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna/4.2.2/5012450aee579c3118ff09461d5ce210e0cdc2a9/jna-4.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5012450aee579c3118ff09461d5ce210e0cdc2a9">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10/jna-4.2.2_ae0cf8bbd950d615677d7e96f5b66b39626f8193/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kai/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.5/6c6c702c89bfff3cd9e80b04d668c5e190d588c6/commons-lang3-3.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6c6c702c89bfff3cd9e80b04d668c5e190d588c6">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10/commons-lang3-3.5_2b06cdfc0ede6f10258b03662f5da65f073cdaf4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kai/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.11.0/54ec442e9c0fac51265110cf0cb44dfe5ad1ea05/okhttp-urlconnection-3.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="54ec442e9c0fac51265110cf0cb44dfe5ad1ea05">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.11.0_ea6aa6abbf661f70f019248d1d69500dc65b71a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kai/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/core/6.9.2/343ef9408c3b4be08c96c084bbfdbb233d0b5c55/core-6.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="343ef9408c3b4be08c96c084bbfdbb233d0b5c55">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10/core-6.9.2_133287f8aae67dc72364fe0c5e8385b37207bc57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kai/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.11.0/75966e05a49046ca2ae734e5626f28837a8d1e82/okhttp-3.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="75966e05a49046ca2ae734e5626f28837a8d1e82">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.11.0_5cf1878986c8540997889a326d312d7c806b3743/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kai/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/conversation/6.9.2/71a0c12d858c91a0657f68bfded9866d4b78c8dd/conversation-6.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="71a0c12d858c91a0657f68bfded9866d4b78c8dd">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10/conversation-6.9.2_129b1b250157d95df33b6efe57c69c175d9aea64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kai/.android/build-cache/468acb58545d581e6b69f0534948c2a994db9b30/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cbb26a4f659b17abc1f75ff735a607aa299697ac">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f8bc55b0666ae254f2e8407ea358d1bbe5daf8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kai/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/language-translator/6.9.2/25fb158e696b1cc0e8a89b7a59db8f12b36697bc/language-translator-6.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25fb158e696b1cc0e8a89b7a59db8f12b36697bc">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10/language-translator-6.9.2_cbc749634bda8272f0e06d4d8e19b8d55057dd72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kai/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.14.0_5ad505d79517bffdf810d041e0bfe8da39bba8ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kai/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.11.0/f24576b8fd39d34149654df9702f070042083b65/logging-interceptor-3.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f24576b8fd39d34149654df9702f070042083b65">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.11.0_184ef70f82ff2194938d9c544f86bbca2c77a96f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kai/.android/build-cache/92f395ce81e86b2d107bac69ff033880f7db6318/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1a94a06ec585c9423a3c03bde1f7bf9268f83d66">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e1a4d9413db965db04d5378200d3c5308bf10c7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kai/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/tone-analyzer/6.9.2/704cdc3d2e8a7b168a87416e7a00e4519577c9bc/tone-analyzer-6.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="704cdc3d2e8a7b168a87416e7a00e4519577c9bc">
+        <dex dex="/home/kai/Documents/android-sdk-master/example/build/intermediates/transforms/dex/debug/folders/1000/10/tone-analyzer-6.9.2_cf5c3c7039e84d509b2dd6b16cbc1ba628bc1f20/classes.dex" />
+    </item>
+
+</items>
